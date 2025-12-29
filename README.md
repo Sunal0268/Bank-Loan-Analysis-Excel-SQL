@@ -68,4 +68,4 @@ Top loan purposes by volume:
 1. SQL (Advanced): Joins, CTEs, Aggregations, Date Functions
 2. MS Excel: KPI Cards, Donut Charts, Trend Analysis, Maps
 
-GDrive: 
+GDrive: https://drive.google.com/drive/folders/1dRAkMMIsFqQSYC6NEn25uC94Ij6cLn5-?usp=drive_link
