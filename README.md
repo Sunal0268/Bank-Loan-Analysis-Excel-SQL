@@ -28,7 +28,9 @@ Month-over-Month Growth
 ▫️Risk Share: 13.82%
 ▫️Total Funded: $65.5M
 ▫️Total Received: $37.3M
+
 ▫️ Insight: A small portion of bad loans contributes disproportionately to financial risk, highlighting the importance of borrower screening.
+
 
 
 ~ Loan Term Distribution
@@ -38,6 +40,7 @@ Month-over-Month Growth
 ▫️Borrowers clearly prefer shorter tenure loans
 
 
+
 ~ Loan Purpose Insights
 
 Top loan purposes by volume:
@@ -45,19 +48,24 @@ Top loan purposes by volume:
 ▫️ Home Improvement: 3.8K
 ▫️ Debt Consolidation: 2.1K
 ▫️ Small Business: 1.8K
+
 ▫️ Insight: Debt management and lifestyle expenses dominate borrowing behavior.
+
+
 
 ~ Ownership Analysis
 
 ▫️Rent: 18.4K
 ▫️Mortgage: 17.2K
 ▫️Own: 2.8K
+
 ▫️Majority of borrowers are renters or mortgage holders, indicating ongoing financial liabilities.
+
 
 
 ~ Tools I Used
 
-▫️SQL (Advanced): Joins, CTEs, Aggregations, Date Functions
-▫️MS Excel: KPI Cards, Donut Charts, Trend Analysis, Maps
+1. SQL (Advanced): Joins, CTEs, Aggregations, Date Functions
+2. MS Excel: KPI Cards, Donut Charts, Trend Analysis, Maps
 
 GDrive: 
